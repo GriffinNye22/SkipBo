@@ -1,0 +1,2 @@
+serviceClass: com.client.settings.ConnectionService
+path: 9554AA5BFEBDE654416E8089288A2F41.gwt.rpc

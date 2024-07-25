@@ -1,0 +1,4 @@
+# Module skipbov3
+# RPC service class, partial path of RPC policy file
+com.client.settings.ConnectionService, 9554AA5BFEBDE654416E8089288A2F41.gwt.rpc
+com.client.game.GameService, DA2020F1509407F6049855D1D685F79E.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.client.game.GameService
+path: DA2020F1509407F6049855D1D685F79E.gwt.rpc

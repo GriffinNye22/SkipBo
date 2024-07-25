@@ -1,0 +1,181 @@
+/*Rewrite with style name for each panel
+Position composites in absolute panel using object-position; */
+
+/* Pre-Game Settings */
+.header {
+  font-size: 10vh;
+  font-weight: bold;
+  color: white;
+  margin: 3vh 0px 3vh;
+  text-align: center;
+}
+
+.settingsPanel {
+  position: relative;
+  top: 15%;
+  width: 40vw;
+  display: flex;
+  justify-content: center;
+  padding: 0% 5% 2.5% 5%;
+  background: url(images/Wood3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  color: white;
+}
+
+.settingsHeader {
+	font-size: 5vh;
+	font-family: Copperplate, "Times New Roman"";
+}
+
+.settings {
+	font-size: 2.5vh;
+	font-family: Copperplate, "Times New Roman";
+}
+
+.namesTable {
+	margin-top: 2.5vh;
+	object-fit: scale-down;
+}
+
+.gwt-Button-play {
+  width: 100%;
+  margin-top: 4vh !important;
+}
+
+.gwt-TextBox {
+  width: 100%;
+}
+
+.gwt-ListBox {
+  width: 4em;
+}
+
+/* Game Layout */
+.layout {
+  width: 100vw;
+  height: 100vh;
+  object-position: 50% 50%;
+}
+
+.verticalCenter {
+  display: flex;
+  align-content: center;
+}
+
+.centerLayout {
+  margin-top: 20%;
+  margin-bottom: 20%;
+  width: 20%;
+}
+
+.stockSouth {
+  margin-left: 15%;
+}
+
+.stockNorth {
+  margin-left: -15%;
+}
+
+.stockEast {
+  margin-bottom: 15%;
+}
+
+.stockWest {
+  margin-top: 15%;
+}
+
+.discardEast {
+  padding-top: 15px;
+}
+
+.discardWest {
+  padding-bottom: 15px;
+}
+
+.dropTarget {
+  border: 10px solid blue;
+}
+
+.scoreHeader {
+  font-weight: bold;
+}
+
+.scoreboard {
+	color: white;
+	background-color: grey;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.rulesButton {
+	width: 50px;
+  height: 50px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+/* Wait Page */
+.message {
+	color: white;
+	font-family: Copperplate;
+	font-size: 10vh;
+}
+
+.messagePanel {
+	width: 100vw;
+	height: 100vh;
+}
+
+
+/* Shared */
+
+html {
+	width:100%;
+	height:100%;
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+  margin: 0 !important; 
+  padding: 0;
+}
+
+.container {
+	width: 100vw;
+	height: 100vh;
+  background: url(images/Table.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left {
+  margin-right: auto;
+  width: 40%;
+}
+
+.right {
+  margin-left: auto;
+  width: 40%;
+}
+
+.textRight {
+  text-align: right;
+}
+
+.textCenter{
+  text-align: center;
+}
