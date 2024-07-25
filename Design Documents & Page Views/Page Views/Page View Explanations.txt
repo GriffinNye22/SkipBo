@@ -1,0 +1,7 @@
+SettingsPage.png - This page is the page displayed to the first ("host") client to connect to the application.
+WaitingPage.png - This page is displayed to all subsequent clients while the "host" client configures the Game settings.
+GameScreen.png - The main Game Page layout displayed at game start from the Host client's perspective.
+RulesPage.png - The help page view, displaying the overall rules of the game, accessible via the button in the top-right corner.
+CheatsPage.png - The hidden Cheats menu for adding cards to player hands for testing purposes. Accesible by mousing over the bottom left of the Help page area.
+MyTurnView.png - The application view from the host client's perspective during his/her turn.
+YourTurnView.png - The application view from the non-host client's perspective during the host client's turn.
