@@ -2,8 +2,8 @@
 
 A Web App for playing the game of Skip-Bo. Features include: Real-Time Multiplayer, AI Players, & a Cheats menu for testing. Unfortunately, the game is not actively hosted anymore, but can be run and tested in Eclipse. Still needs some polishing, mainly on the front-end and some concurrency on the server side, but is one of my largest projects to date, so while she's still a work in progress, I'm proud of her.
 
-|                           |                                                                                                    |
-|---------------------------:|---------------------------------------------------------------------------------------------------|
+|                       |                                                                                                        |
+|----------------------:|--------------------------------------------------------------------------------------------------------|
 |**Last Modified Date:**| 9/24/20                                                                                                |
 |**Last Modifications:**| Implemented scoring feature as mandatory as outlined in the Scoring and Winning section                |
 |     **Documentation:**| [Doc Site]() [DEPRECATED] (See doc folder for doc site HTML files)  
