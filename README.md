@@ -9,7 +9,7 @@ A Web App for playing the game of Skip-Bo. Features include: Real-Time Multiplay
 |     **Documentation:**| [Doc Site]() [DEPRECATED] (See doc folder for doc site HTML files)  
 |                       | [Design Docs](https://github.com/GriffinNye22/SkipBo/tree/main/Design%20Documents%20%26%20Page%20Views)|
 |          **Platform:**| Google Web Toolkit                                                                                     |
-|          **Language:**| Java, HTML, & CSS                                                                                       |
+|          **Language:**| Java, HTML, & CSS                                                                                      |
 
 I have provided the UML class diagrams utilized in designing my project, and screenshots of major focal points of the user interface. These documents can be found under "Design Documents & Page Views".
 
