@@ -6,7 +6,7 @@ A Web App for playing the game of Skip-Bo. Features include: Real-Time Multiplay
 |----------------------:|--------------------------------------------------------------------------------------------------------|
 |**Last Modified Date:**| 9/24/20                                                                                                |
 |**Last Modifications:**| Implemented scoring feature as mandatory as outlined in the Scoring and Winning section                |
-|     **Documentation:**| [Doc Site]() [DEPRECATED] (See doc folder for doc site HTML files)  
+|     **Documentation:**| [Doc Site](https://codedocs.xyz/GriffinNye22/SkipBo/)                                                  |  
 |                       | [Design Docs](https://github.com/GriffinNye22/SkipBo/tree/main/Design%20Documents%20%26%20Page%20Views)|
 |          **Platform:**| Google Web Toolkit                                                                                     |
 |          **Language:**| Java, HTML, & CSS                                                                                      |
